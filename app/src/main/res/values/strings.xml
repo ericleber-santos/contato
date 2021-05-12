@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Contatos</string>
+
+    <!-- ContatoFragment -->
+    <string name="contato_nome_hint">Nome</string>
+    <string name="contato_celular_hint">Celular</string>
+    <string name="contato_email_hint">E-mail</string>
+    <string name="contato_button_add">Adicionar</string>
+    <string name="contato_button_update">Atualizar</string>
+    <string name="contato_button_delete">Excluir</string>
+    <string name="contato_titulo_hint">Editar Contato</string>
+    <string name="contato_insert_successfully">Contato adicionado com sucesso</string>
+    <string name="contato_error_to_insert">Erro ao adicionar contato</string>
+    <string name="contato_updated_successfully">Contato atualizado com sucesso</string>
+    <string name="contato_error_to_update">Erro ao atualizar contato</string>
+    <string name="contato_deleted_successfully">Contato excluído com sucesso</string>
+    <string name="contato_error_to_delete">Erro ao excluir contato</string>
+
+    <!--ContatoList -->
+    <string name="contatoList_title">Contatos</string>
+
+</resources>
